@@ -1,6 +1,8 @@
 # Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics
 
-Public Repository for our ICRA2025 accepted paper: Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics. 
+Public Repository for our ICRA 2025 accepted paper: Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics. 
+
+[Project Page](https://thkreutz.github.io/projects/crowdorchestra.html) - [Arxiv](https://arxiv.org/abs/2503.16639)
 
 ## Authors
 Thomas Kreutz, Max Mühlhäuser, and Alejandro Sanchez Guinea

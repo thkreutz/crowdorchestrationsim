@@ -1,0 +1,27 @@
+name: imcrowds
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.8
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - tqdm
+  - pygame
+  - seaborn
+  - pyyaml
+  - opencv
+  - pip
+  - pytorch
+  - torchvision
+  # - cpuonly  # uncomment for CPU-only installs
+  - pip:
+    - gymnasium
+    - distinctipy
+    - imitation
+    - stable-baselines3
+    - shimmy
+    - cloudpickle

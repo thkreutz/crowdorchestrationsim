@@ -2,7 +2,7 @@
 
 Public Repository for our ICRA 2025 accepted paper: Whenever, Wherever: Towards Orchestrating Crowd Simulations with Spatio-Temporal Spawn Dynamics. 
 
-[Project Page](https://thkreutz.github.io/projects/crowdorchestra.html) - [Arxiv](https://arxiv.org/abs/2503.16639)
+[Project Page](https://thkreutz.github.io/projects/crowdorchestra.html) - [Paper](https://ieeexplore.ieee.org/document/11128302)
 
 ## Authors
 Thomas Kreutz, Max Mühlhäuser, and Alejandro Sanchez Guinea
@@ -49,6 +49,3 @@ If you find our work useful, please cite our paper:
   year      = {2025}
 }
 ```
-
-## License
-TBA

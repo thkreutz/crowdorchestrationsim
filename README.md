@@ -11,6 +11,8 @@ Thomas Kreutz, Max Mühlhäuser, and Alejandro Sanchez Guinea
 Realistic crowd simulations are essential for immersive virtual environments, relying on both individual behaviors (microscopic dynamics) and overall crowd patterns (macroscopic characteristics). While recent data-driven methods like deep reinforcement learning improve microscopic realism, they often overlook critical macroscopic features such as crowd density and flow, which are governed by spatio-temporal spawn dynamics, namely, when and where agents enter a scene. Traditional methods, like random spawn rates, stochastic processes, or fixed schedules, are not guaranteed to capture the underlying complexity or lack diversity and realism. To address this issue, we propose a novel approach called nTPP-GMM that models spatio-temporal spawn dynamics using Neural Temporal Point Processes (nTPPs) that are coupled with a spawn-conditional Gaussian Mixture Model (GMM) for agent spawn and goal positions. We evaluate our approach by orchestrating crowd simulations of three diverse real-world datasets with nTPP-GMM. Our experiments demonstrate the orchestration with nTPP-GMM leads to realistic simulations that reflect real-world crowd scenarios and allow crowd analysis.
 
 ## Code & Data
+Research code provided as-is.
+
 Environment:
 - conda env create -f environment.yml
 - conda activate imcrowds
@@ -39,7 +41,7 @@ Other 2: Test policy controlling only a single agent in a sequence from the real
 - python single_agent_sim.py
 
 ## Citation
-If you find our work useful, please cite our paper:
+If you find this work useful, please cite our paper:
 
 ```
 @inproceedings{kreutz2025whenever,
